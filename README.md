@@ -13,7 +13,7 @@
 <img src="https://github-readme-stats.vercel.app/api/wakatime/?username=Qiaoliwang2020&custom_title=Week+Stats&langs_count=4&bg_color=191622&text_color=E2cd5c&border_color=E2cd5c&title_color=Ee4644" />
   </p>
 
----
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Coding...&center=true&color=E2cd5c&vCenter=true" />
 
