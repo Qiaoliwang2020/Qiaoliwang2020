@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Qiaoli</h1>
-<h3 align="center">A passionate web developer from China</h3>
+<h3 align="center">A passionate web developer</h3>
 
 - 🔭 I’m currently working on **web application & Mobile App Development**
 
