@@ -1,12 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zoe Qiaoli Wang</h1>
-<h3 align="center">A passionate web developer</h3>
-
-- 🔭 I’m currently working on **web application & Mobile App Development**
-
-- 🌱 I’m currently learning **typescript & next.js**
-
-- 💬 Ask me about **react & flutter & vue & CSS3**
-
+<h3 align="center">A passionate full stack developer</h3>
 
 <h3 align="left">Programming Languages:</h3>
 <p align="left">
@@ -49,11 +42,3 @@
 <p align="left">    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>       <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>   </p>
 
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Qiaoliwang2020&count_private=true&show_icons=true&title_color=44ee9b&icon_color=44ee9b&text_color=4497ee&bg_color=FFFFFF&hide_title=true"  />
-  </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Qiaoliwang2020&text_color=4497ee&background=FFFFFF&currStreakNum=4497ee&sideNums=4497ee&currStreakLabel=44ee9b&sideLabels=44ee9b&dates=4497ee&ring=44ee9b&fire=44ee9b" />
-  </p>
