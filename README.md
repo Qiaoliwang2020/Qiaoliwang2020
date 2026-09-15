@@ -80,14 +80,3 @@ Developing multi-tenant assessment and training systems with organisation-specif
 ### What I care about
 
 I enjoy turning complicated requirements into products that are reliable, understandable, and genuinely useful. I care about maintainable architecture, thoughtful user experiences, secure data handling, and shipping software that works outside the demo environment.
-
-### Let’s connect
-
-<p>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:YOUR_EMAIL_ADDRESS">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" alt="Email" />
-  </a>
-</p>
