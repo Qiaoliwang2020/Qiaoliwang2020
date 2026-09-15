@@ -35,7 +35,7 @@ I build secure, scalable web and mobile products across digital health, educatio
 
 Building and maintaining mobile apps, clinician portals, and backend services that support patient observations, wearable-device integrations, health-risk alerts, push notifications, and research data exports.
 
-#### CCL Pass
+#### CCLPass
 
 An AI-assisted learning platform for Australian CCL exam preparation, featuring personalised feedback, mock examinations, study plans, vocabulary practice, and subscription management.
 
