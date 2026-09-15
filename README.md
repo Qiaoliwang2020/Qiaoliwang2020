@@ -1,44 +1,93 @@
-<h1 align="center">Hi 👋, I'm Zoe Qiaoli Wang</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<h1 align="center">Hi 👋, I'm Zoe (Qiaoli) Wang</h1>
 
-<h3 align="left">Programming Languages:</h3>
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<h3 align="center">
+Senior Software Engineer · Full-Stack & Mobile Developer
+</h3>
+
+<p align="center">
+I build secure, scalable web and mobile products across digital health, education, AI, and SaaS.
 </p>
-<h3 align="left">Frontend Development</h3>
-<p align="left">
- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
- <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
- <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
+
+---
+
+### About me
+
+* 💼 Senior Software Engineer based in Melbourne, Australia
+* 🏥 Building production digital-health platforms, clinical dashboards, and research applications
+* 📱 Experienced in delivering Flutter apps to the Apple App Store and Google Play
+* 🌐 Building full-stack products with Next.js, React, Node.js, GraphQL, and PostgreSQL
+* ☁️ Deploying and maintaining systems across Azure, AWS, GCP, Cloudflare, and Vercel
+* 🔐 Experienced with authentication, healthcare data, third-party integrations, notifications, and security reviews
+* 🚀 Comfortable taking products from early prototype through deployment, monitoring, and ongoing support
+* 🤝 Experienced in technical leadership, stakeholder communication, mentoring, and cross-functional delivery
+
+### Current focus
+
+* Digital-health applications and clinician-facing platforms
+* AI-assisted learning and assessment products
+* Multi-tenant SaaS architecture
+* Cloud infrastructure, CI/CD, observability, and application security
+* Reliable integrations with wearable devices and external APIs
+
+### Selected work
+
+#### Digital health platforms
+
+Building and maintaining mobile apps, clinician portals, and backend services that support patient observations, wearable-device integrations, health-risk alerts, push notifications, and research data exports.
+
+#### CCL Pass
+
+An AI-assisted learning platform for Australian CCL exam preparation, featuring personalised feedback, mock examinations, study plans, vocabulary practice, and subscription management.
+
+#### UnniWork
+
+A bilingual Australian employment platform helping local businesses publish flexible shifts and connect with job seekers through reusable QR-code recruitment pages.
+
+#### Enterprise assessment platforms
+
+Developing multi-tenant assessment and training systems with organisation-specific branding, reporting, configurable fields, role-based access, automated reports, and user-management tools.
+
+### Technology
+
+#### Languages
+
 <p>
-<h3 align="left" >Mobile App Development</h3>
-<p  align="left">
- <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
+  <img src="https://skillicons.dev/icons?i=ts,js,dart,html,css,sql" alt="TypeScript, JavaScript, Dart, HTML, CSS and SQL" />
 </p>
 
-<h3>Backend Development</h3>
+#### Frontend and mobile
+
 <p>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,flutter,tailwind,sass" alt="React, Next.js, Vue, Flutter, Tailwind CSS and Sass" />
 </p>
 
-<h3 align="left">Testing</h3>
-<p align="left">
-<a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> 
+#### Backend and data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb,firebase,supabase" alt="Node.js, Express, PostgreSQL, MySQL, MongoDB, Firebase and Supabase" />
 </p>
 
-<h3 align="left">Others</h3>
+#### Cloud and DevOps
 
-<p align="left">    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>       <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>   </p>
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,aws,gcp,cloudflare,vercel,docker,git,github,gitlab" alt="Azure, AWS, Google Cloud, Cloudflare, Vercel, Docker, Git, GitHub and GitLab" />
+</p>
 
+#### APIs, architecture, and testing
 
+`GraphQL` · `REST APIs` · `OAuth 2.0` · `JWT` · `FCM` · `CI/CD` · `Cypress` · `Postman` · `Redis` · `WordPress`
+
+### What I care about
+
+I enjoy turning complicated requirements into products that are reliable, understandable, and genuinely useful. I care about maintainable architecture, thoughtful user experiences, secure data handling, and shipping software that works outside the demo environment.
+
+### Let’s connect
+
+<p>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:YOUR_EMAIL_ADDRESS">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+</p>
